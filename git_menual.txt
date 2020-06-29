@@ -1,0 +1,7 @@
+git config --global user.name "git이름"
+git config --global user.email "git아이디"
+git init
+git add *
+git commit -m "commit message"
+git remote add origin (git주소)
+git push -u origin master
