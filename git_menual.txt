@@ -8,3 +8,4 @@ git push -u origin master
 
 markdown guide
 https://colab.research.google.com/notebooks/markdown_guide.ipynb
+https://gist.github.com/ihoneymon/652be052a0727ad59601
