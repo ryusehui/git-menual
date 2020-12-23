@@ -1,5 +1,7 @@
 [공통] 마크다운 markdown 작성법
 ======================
+> reference site
+>* [markdown info](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
 # 1. 마크다운에 관하여
 ## 1.1. 마크다운이란?
@@ -290,6 +292,13 @@ Link: [Google](https://google.com, "google link")
 
 * 외부링크: <http://example.com/>
 * 이메일링크: <address@example.com>
+
+* 내부링크
+```
+사용문법: [Title](#text)
+적용예: [test](#test)
+	#test
+```
 
 ## 2.7. 강조
 ```
