@@ -15,5 +15,5 @@ clone
 -> command 창에 "git clone (git 주소)"
 
 &markdown guide   
-[guide1]https://colab.research.google.com/notebooks/markdown_guide.ipynb
-[guide2]https://gist.github.com/ihoneymon/652be052a0727ad59601
+[guide1](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
+[guide2](https://gist.github.com/ihoneymon/652be052a0727ad59601)
